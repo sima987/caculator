@@ -1,2 +1,3 @@
 # caculator
-THis is my first reponsitory project
+lets calculate
+
